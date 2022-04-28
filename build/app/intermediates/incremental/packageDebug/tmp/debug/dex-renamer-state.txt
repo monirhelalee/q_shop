@@ -1,0 +1,4 @@
+#Thu Apr 28 12:33:52 BDT 2022
+base.0=/home/ishraak/AndroidStudioProjects/q_shop/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
